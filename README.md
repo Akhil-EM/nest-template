@@ -2,6 +2,8 @@ Rename .env.eg to .env
 
 Remove packages from packages.json according to your database needs
 
+Visit http://localhost:PORT/documentation for swagger documentation.
+
 Run
 ```bash
 $ npm install
